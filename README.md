@@ -9,6 +9,8 @@ Optional Bottom Row ("0, ."): 1.75u Shift/ 1.25u Fn
 No Vertical 2u "+" swapped for 2 additional 1u keys
 
 	Future Updates:
+ For Absolutly no reason, I have decided I want it to also have the option of adding a OLED/LCD Screen and Wireless functionality (depending on Microcontroller compatability) and so I will be figuring out how to add a battery jack, and 5 pin connector. 
+ 
  Once I get the first Prototypes from my solder version (see /Custom_Numpad1) I will begin building the firmware.
 
  Current Plan is to support MOST popular micro controllers, which will require QMK/KMK/and ZMK, I have never done this from scratch so we shall see just how over ambitiuos this is. I have already obtained a Pi Pico (rp2040), Nice!Nano (nRF52840), and Pro Micro (ATmega32U4). 
